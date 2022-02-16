@@ -1,0 +1,66 @@
+body{
+    background:linear-gradient(	#2E4053,#34495E)
+}
+
+.contenedor h1 {
+    color: #D35400;
+    font-family: 'Press Start 2P', cursive;
+    margin: 30px 50px;
+    padding: 30px;
+   
+}
+
+.contenedor{
+    
+    text-align: center;
+    border: #AEB6BF solid;
+    padding:30px;
+    width:500px;
+    margin: 80px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1C2833;
+    
+    
+    
+}
+
+.contenedor .elemento label{
+    color: #82E0AA;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    margin: 50px;
+
+}
+.contenedor .elemento input{
+    margin: 15px;/* que tan anchas son*/
+    border:solid;
+    padding:20px 80px; /* que tan separadas estan las cosas*/
+}
+.button{
+    padding:20px ;
+    margin: 30px;
+    font-family: 'Archivo', sans-serif;
+    border-radius:10px;
+    font-size: 20px;
+    background-color: #5DADE2;
+}
+
+p{
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    float: center;
+    text-align: center;
+
+}
+
+
+
+/*.resultado p{ 
+    color:yellow;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;*/
+
+
